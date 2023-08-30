@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bishal
-Skills: HTML, CSS, JS, Next.js
-Email: parikhbishal@gmail.com
-{{/user}}
